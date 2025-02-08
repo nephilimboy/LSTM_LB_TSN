@@ -22,5 +22,4 @@ instance replica fails.
 * Build load balancer
   * ``Make; Make install``
 * Run nload
-* Run LSTM model (Failure detection)
-  * Python3.10 Model.py
+
